@@ -5,6 +5,7 @@ Built with Laravel 10, PHP8.
 ## Run
 
 ```
+php artisan migrate
 php artisan serve
 ```
 
